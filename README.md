@@ -45,6 +45,12 @@ The quick-start script automatically:
 
 For detailed setup including Ollama configuration, see QUICK_START.md
 
+Application Interface
+
+![AI Detective Main Interface](docs/screenshots/main-interface.png)
+
+The clean, modern interface makes it easy to explore cases, run analysis, and interact with the AI detective.
+
 Why This Exists
 
 AI Detective exists to make advanced AI reasoning accessible to everyone. It's a free, transparent, ethical platform for exploring how AI can analyze complex information, detect patterns, and reason through problems.
@@ -63,13 +69,15 @@ What You Can Do
 
 Explore Legendary Unsolved Mysteries
 
+![Fetch Public Cases](docs/screenshots/fetch-public-cases.png)
+
 Dive into some of history's most fascinating cold cases:
 Zodiac Killer: The cryptic serial killer who taunted police
 DB Cooper: The mysterious hijacker who vanished into thin air
 Amelia Earhart: The aviation pioneer who disappeared over the Pacific
 Somerton Man: The unidentified man with the Tamam Shud mystery
 
-Each case comes with evidence, timelines, and the ability to run AI analysis.
+Each case comes with evidence, timelines, and the ability to run AI analysis. Use the "Fetch Public Case" feature to instantly load famous cases with all their evidence and metadata.
 
 Experiment with AI Reasoning
 
@@ -124,7 +132,9 @@ Chat with the AI detective about your cases. Ask questions, get insights, and ex
 
 Case Management
 
-Upload cases, organize evidence, track timelines, visualize locations on an interactive 3D globe with satellite imagery, terrain, and buildings, and manage your investigative workspace. Full CRUD operations with search, filter, and export capabilities.
+![Case Details View](docs/screenshots/case-details.png)
+
+Upload cases, organize evidence, track timelines, visualize locations on an interactive 3D globe with satellite imagery, terrain, and buildings, and manage your investigative workspace. Full CRUD operations with search, filter, and export capabilities. View comprehensive case details, evidence lists, and run AI analysis with a single click.
 
 Collaboration Features
 
