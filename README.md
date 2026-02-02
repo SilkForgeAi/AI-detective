@@ -17,11 +17,33 @@ See DISCLAIMER.md for complete legal and ethical guidelines.
 
 Try It Now
 
-Get up and running in seconds:
+Get up and running in seconds with our automated setup:
 
-git clone https://github.com/Silkforgeai/ai-detective.git && cd ai-detective && npm install && npm run dev
+Mac/Linux:
+git clone https://github.com/SilkForgeAi/AI-detective.git
+cd AI-detective
+./quick-start.sh
+
+Windows:
+git clone https://github.com/SilkForgeAi/AI-detective.git
+cd AI-detective
+quick-start.bat
+
+Or manually:
+git clone https://github.com/SilkForgeAi/AI-detective.git
+cd AI-detective
+npm install
+npm run dev
 
 Then open http://localhost:3000 and start exploring.
+
+The quick-start script automatically:
+- Installs dependencies
+- Sets up environment variables
+- Checks Ollama installation
+- Starts the development server
+
+For detailed setup including Ollama configuration, see QUICK_START.md
 
 Why This Exists
 
